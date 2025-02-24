@@ -7,12 +7,19 @@ Este é o backend do projeto NLW Connect, desenvolvido durante a NLW da Rocketse
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Node.js - Ambiente de execução JavaScript no backend.
+
 Fastify - Framework web rápido e eficiente para Node.js.
+
 Drizzle ORM - ORM leve para TypeScript e SQL.
+
 PostgreSQL - Banco de dados relacional utilizado no projeto.
+
 Redis - Armazenamento em cache e sistema de mensagens.
+
 Zod - Validação de esquemas de dados.
+
 TypeScript - Superset do JavaScript com tipagem estática.
+
 Swagger - Documentação automática da API.
 
 📂 Estrutura do Projeto
